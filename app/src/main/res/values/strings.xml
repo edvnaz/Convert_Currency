@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ValiutosKonvertavimasPaySera_EdvinasPeciauskas</string>
+
+    <string name="val_eur">EUR</string>
+    <string name="val_usd">USD</string>
+    <string name="val_jpy">JPY</string>
+    <string name="button_conversion">Konvertavimas</string>
+    <string name="button_history">Istorija</string>
+    <string name="converting_from_text">Parduodama suma</string>
+    <string name="hint_from">Iš</string>
+    <string name="converting_to_text">Gaunama suma</string>
+    <string name="hint_to">Į</string>
+    <string name="button_convert">Konvertuoti</string>
+</resources>
